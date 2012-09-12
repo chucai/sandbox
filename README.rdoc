@@ -1,0 +1,7 @@
+= Sandbox[砂箱]
+
+主要是用于自动生成测试的API的JSON数据。如果需要完整的Rails程序，地址如下：
+https://github.com/chucai/rest_prev
+
+
+This project rocks and uses MIT-LICENSE.
